@@ -1,0 +1,14 @@
+{
+    "name": "김동욱",
+    "job": "student",
+    "age": "19",
+    "student ID": "20220341",
+    "hobby": ["football", "basketball", "music"],
+    "course_table": [
+        {"name": "기초영어", "id": "GEDU111-02"},
+        {"name": "미적분학", "id": "MATH101-05"},
+        {"name": "일반물리1", "id": "PHYS101-02"},
+        {"name": "일반생명과학(H)", "id": "LIFE103H-03"},
+        {"name": "프로그래밍과문제해결", "id": "CSED101"}
+    ]
+}
